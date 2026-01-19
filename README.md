@@ -51,7 +51,7 @@ Run Locally
 
 Clone the repository
 
-git clone https://github.com/your-username/landing-page.git
+git clone https://github.com/maadhudheeraj1999/landing-page.git
 
 Open index.html in your browser
 
